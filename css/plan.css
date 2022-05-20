@@ -1,0 +1,21 @@
+main {
+    background-color: #f1f1f5;
+    height: 100vh;
+}
+
+#main {
+    background-color: transparent;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+#tog {
+    background-color: transparent;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
